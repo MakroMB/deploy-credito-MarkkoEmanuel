@@ -8,7 +8,7 @@
 
 ## 🌐 Aplicação Online
 
-**🚀 Acesse a aplicação:** [[https://seu-nome-credito.streamlit.app](https://deploy-credito-markkoemanuel.streamlit.app/)]
+**🚀 Acesse a aplicação:** [[https://deploy-credito-markkoemanuel.streamlit.app](https://deploy-credito-markkoemanuel.streamlit.app/)]
 
 ## 📋 Sobre o Projeto
 
