@@ -10,8 +10,6 @@
 
 **🚀 Acesse a aplicação:** [[https://seu-nome-credito.streamlit.app](https://deploy-credito-markkoemanuel.streamlit.app/)]
 
-> 💡 **Dica:** Substitua a URL acima pela URL real da sua aplicação após o deploy
-
 ## 📋 Sobre o Projeto
 
 Este sistema utiliza **Machine Learning** para analisar automaticamente pedidos de crédito, fornecendo:
